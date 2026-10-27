@@ -1,0 +1,6 @@
+{
+  "name": "ExplainAm - Document Explainer & Wahala Detector",
+  "description": "Explains confusing agreements, loan offers, hospital bills, and notices in Pidgin, Yoruba, Hausa, Igbo, or English. Flags risky clauses and reads aloud as a voice note.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
